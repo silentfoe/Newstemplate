@@ -1,4 +1,4 @@
 # Newstemplate
-Rough layout for a news template with images
+Rough layouts for news websites doing for practice and homework.
 
-This is currently a static website not designed for mobile but will have upgrades coming soon. 
+These are currently static websites not designed for mobile but will have upgrades coming soon. 
